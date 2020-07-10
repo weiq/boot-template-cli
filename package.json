@@ -1,0 +1,31 @@
+{
+  "name": "boot-template-cli",
+  "version": "0.0.1",
+  "description": "Creates a React & VUE application using the command line.",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "np --no-cleanup --yolo --no-publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiq/boot-template-cli.git"
+  },
+  "keywords": [],
+  "author": "weiq <6682220aabc@163.com> (https://github.com/weiq)",
+  "license": "MIT",
+  "files": [
+    "cli.js",
+    "index.js",
+    "lib"
+  ],
+  "bin": {
+    "boot-template": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/weiq/boot-template-cli/issues"
+  },
+  "homepage": "https://github.com/weiq/boot-template-cli#readme",
+  "devDependencies": {
+    "np": "^6.3.1"
+  }
+}
