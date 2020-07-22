@@ -4,6 +4,7 @@
   "description": "Creates a React & VUE application using the command line.",
   "main": "index.js",
   "scripts": {
+    "test": "cross-env NODE_ENV=development cli.js",
     "prepublishOnly": "np --no-cleanup --yolo --no-publish"
   },
   "repository": {
@@ -25,7 +26,22 @@
     "url": "https://github.com/weiq/boot-template-cli/issues"
   },
   "homepage": "https://github.com/weiq/boot-template-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clipboardy": "^2.3.0",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "inquirer": "^7.3.2",
+    "mkdirp": "^1.0.4",
+    "prettier": "^2.0.5",
+    "semver": "^7.3.2",
+    "sort-package-json": "^1.44.0",
+    "yargs-parser": "^18.1.3",
+    "yeoman-environment": "^2.10.3",
+    "yeoman-generator": "^4.11.0"
+  },
   "devDependencies": {
+    "cross-env": "^7.0.2",
     "np": "^6.3.1"
   }
 }
