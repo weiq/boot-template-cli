@@ -33,6 +33,7 @@
     "glob": "^7.1.6",
     "inquirer": "^7.3.2",
     "mkdirp": "^1.0.4",
+    "node-fetch": "^2.6.0",
     "prettier": "^2.0.5",
     "semver": "^7.3.2",
     "sort-package-json": "^1.44.0",
