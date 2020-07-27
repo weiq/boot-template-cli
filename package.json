@@ -20,7 +20,7 @@
     "lib"
   ],
   "bin": {
-    "boot-template": "cli.js"
+    "create-template": "cli.js"
   },
   "bugs": {
     "url": "https://github.com/weiq/boot-template-cli/issues"
