@@ -4,7 +4,6 @@
   "description": "Creates a React & VUE application using the command line.",
   "main": "index.js",
   "scripts": {
-    "test": "cross-env NODE_ENV=development cli.js",
     "prepublishOnly": "np --no-cleanup --yolo --no-publish"
   },
   "repository": {
@@ -42,7 +41,6 @@
     "yeoman-generator": "^4.11.0"
   },
   "devDependencies": {
-    "cross-env": "^7.0.2",
     "np": "^6.3.1"
   }
 }
