@@ -61,7 +61,7 @@ prompts.json
 ```
 ## 使用
 
-### 1.选择模板 dva-boot | dva-boot-admin | vue-boot-template
+### 1.选择模板 [dva-boot](https://github.com/LANIF-UI/dva-boot) | [dva-boot-admin](https://github.com/LANIF-UI/dva-boot-admin) | [vue-boot-template](https://github.com/LANIF-UI/vue-boot-template)
 
 > 暂时支持下载并使用这三种脚手架生成我们的工程 
 
