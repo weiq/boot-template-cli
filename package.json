@@ -1,6 +1,6 @@
 {
   "name": "boot-template-cli",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Creates a React & VUE application using the command line.",
   "main": "index.js",
   "scripts": {
