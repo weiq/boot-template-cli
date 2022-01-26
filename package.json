@@ -1,6 +1,6 @@
 {
   "name": "boot-template-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Creates a React & VUE application using the command line.",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "mkdirp": "^1.0.4",
     "node-fetch": "^2.6.0",
     "prettier": "^2.0.5",
-    "semver": "^7.3.2",
+    "semver": "^7.3.5",
     "sort-package-json": "^1.44.0",
     "yargs-parser": "^18.1.3",
     "yeoman-environment": "^2.10.3",
